@@ -76,6 +76,7 @@
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
             <version>${alibaba.cloud.version}</version>
+
         </dependency>
         <!-- JWT -->
         <dependency>
